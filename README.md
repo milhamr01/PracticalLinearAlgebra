@@ -2,7 +2,6 @@
 
 This repository was created as a structured code reproduction and conceptual explanation project based on **Practical Linear Algebra for Data Science: From Core Concepts to Applications Using Python** by **Mike X. Cohen**.
 
-> The book cover is not embedded. Add a legal/official image manually if required.
 
 ---
 
